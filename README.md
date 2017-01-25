@@ -1,4 +1,4 @@
 # touchy
-![A2M Systèmes logo](https://pbs.twimg.com/profile_images/523511505866600449/pSfukwkP_400x400.png)
+![A2M Systèmes logo](https://raw.githubusercontent.com/a2mSystemes/touchy/master/touchy.jpg)
 touchy app for touchscreens (image slider) made with openframeworks.
 DESCRIPTION WILL COME
