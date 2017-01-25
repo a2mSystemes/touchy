@@ -1,4 +1,4 @@
-![A2M Systèmes logo](https://raw.githubusercontent.com/a2mSystemes/touchy/master/touchy.jpg)
+![A2M Systèmes logo](touchy.jpg)
 
 # touchy
 
